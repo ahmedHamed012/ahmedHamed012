@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-line-wordmark.svg" height="50" alt="node logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="50" alt="node logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
